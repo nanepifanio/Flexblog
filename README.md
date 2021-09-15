@@ -1,2 +1,3 @@
 # Flexblog
- Site para testar meus conhecimentos em CSS Flexbox
+
+Projeto desenvolvido no curso "Origamid" onde pude testar meus conhecimentos em CSS Flexbox.
